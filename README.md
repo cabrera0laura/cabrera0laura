@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-# 💫 About Me:
-## Olá! Eu sou  a **Laura Beltran Cabrera** 👋<br><br>
-🔭 Atualmente estou cursando **Desenvolvimento de Sistemas**  <br> 🌱 Me aprofundando em **desenvolvimento Backend**<br><br> 
+
+## 💫 About Me:
+
+### Olá! Eu sou a **Laura Beltran Cabrera** 👋
+
+##🔭 Atualmente estou cursando **Desenvolvimento de Sistemas**  
+##🌱 Me aprofundando em **desenvolvimento Backend** 
 
 
 ## 🌐 Socials:
